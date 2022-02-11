@@ -269,7 +269,7 @@ ul {
   background-color: #b978b9;
   padding: 25px;
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
   font-family:'Courier New', Courier, monospace;
 }
 .headerservice h1{
@@ -283,7 +283,7 @@ ul {
   float:left;
   width: 50%;
   padding: 25px;
-  height: 1000px; 
+  height: 1300px; 
 }
 
 .division2 {
@@ -291,7 +291,7 @@ ul {
   float:left;
   width: 50%;
   padding: 25px;
-  height: 1000px; 
+  height: 1300px; 
 }
 
 .separacion:after {
@@ -344,4 +344,76 @@ ul {
   padding-top: 25px;
   background-color:rgb(156, 199, 216) ;
   padding-left: 110px;
+}
+
+#creatividad{
+  width: 400px;
+  padding-top: 25px;
+  background-color:rgb(156, 199, 216) ;
+  padding-left: 110px;
+}
+
+.urlvideo{
+  text-decoration: none;
+  background-color:rgb(156, 199, 216);
+  align-items: center;
+  font-family: 'Josefin Sans', sans-serif;
+  color: rgb(10, 39, 134);
+}
+
+.division2 h4{
+  padding: 20px;
+  background-color:azure;
+  text-align:center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+  margin-top: 25px;
+}
+
+.maria{
+  padding: 20px;
+  background-color:rgb(24, 80, 80);
+  text-align:center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+  line-height: 25px;
+  color: white;
+}
+
+.ensayo{
+  text-decoration: none;
+  background-color:rgb(223, 219, 219);
+  align-items: center;
+  font-family: 'Josefin Sans', sans-serif;
+  color: rgb(10, 39, 134);
+  margin: 10px;
+}
+
+.elias{
+  padding: 20px;
+  background-color:rgb(51, 97, 59);
+  text-align:center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  color: white;
+}
+
+.skills h2{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: azure;
+  font-family:'Josefin Sans', sans-serif ;
+  font-size: 25px;
+}
+
+.habilidades{
+  padding: 20px;
+  background-color:rgb(94, 61, 95);
+  text-align:center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  color: white;
 }
